@@ -1,5 +1,5 @@
 /**
- * Top-level class component for the Bonsu Points client application.
+ * Top-level class component for the Bonus Points client application.
  *
  * Author: Henry Crocker
  *
